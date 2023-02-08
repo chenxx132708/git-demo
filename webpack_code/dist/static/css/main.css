@@ -1,0 +1,36 @@
+.div1{
+    width: 50px;
+    height: 50px;
+    background-image: url(../../static/images/c02befb8f2.jpg);
+    background-size: cover;
+}
+.div2 {
+  width: 50px;
+  height: 50px;
+  background-image: url(../../static/images/23078358f8.jpg);
+  background-size: cover;
+}
+
+.div3{width:100px;height:100px;background-color:#ffb6c1}
+.div4{width:100px;height:100px;background-color:hotpink}
+.div5{width:100px;height:100px;background-color:#9acd32}
+@font-face {
+  font-family: "iconfont"; /* Project id 3878130 */
+  src: url(../../static/media/320b7c43dd.woff2?t=1675341980337) format('woff2'),
+       url(../../static/media/5ecf3dfba5.woff?t=1675341980337) format('woff'),
+       url(../../static/media/ffe1178204.ttf?t=1675341980337) format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-gerenzhongxin-wode-04:before {
+  content: "\ea24";
+}
+
+
